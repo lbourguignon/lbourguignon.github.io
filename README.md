@@ -1,4 +1,3 @@
-# Welcome to my website
 
 ![alt text](https://github.com/lbourguignon/lbourguignon.github.io/blob/main/photo.jpeg?raw=true)
 
